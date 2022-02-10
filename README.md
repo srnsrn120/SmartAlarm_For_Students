@@ -16,4 +16,7 @@ Smart Alarm Clock is an alarm clock for student who wants to study at night. As 
 * Train with  more number of data
 * Create mobile app
 * add UI functionality 
-* 
+
+#Contact
+* If anyone want source code and approach of poc please contact
+* Mail= srnsrn12o@gmail.com
