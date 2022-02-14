@@ -10,7 +10,7 @@ Smart Alarm Clock is an alarm clock for student who wants to study at night. As 
 * We can study without guardian
 
 #Demo video of smart alarm
-https://drive.google.com/file/d/15937P1YqmdeI9S48fefZ9YpjG8dYGh-p/view?usp=sharing
+https://www.linkedin.com/posts/soumyaranjan-nayak-140023161_objectdetection-python-computervision-activity-6898273780909637632-E8Bs
 
 #Improvements
 * Train with  more number of data
