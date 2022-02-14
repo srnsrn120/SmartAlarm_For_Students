@@ -19,4 +19,6 @@ https://www.linkedin.com/posts/soumyaranjan-nayak-140023161_objectdetection-pyth
 
 #Contact
 * If anyone want source code and approach of poc please contact
-* Mail= srnsrn12o@gmail.com
+* Mail: srnsrn12o@gmail.com
+* Linkedin: https://www.linkedin.com/in/soumyaranjan-nayak-140023161/
+
